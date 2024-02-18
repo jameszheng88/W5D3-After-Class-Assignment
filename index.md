@@ -5,7 +5,7 @@ __My current mood is:__
 <br>
 ![lazy cat](https://github.com/jameszheng88/W5D3-After-Class-Assignment/blob/main/lazyMood.jpeg)
 ### Background and Education
-I went to [St John's University][My College] for pharmacy. I received Doctor of Pharmacy degree and graduated with summa cum laude honor. I worked as a retail pharmacist for 12 years.  
+I went to [St John's University][My College] for pharmacy. I received Doctor of Pharmacy degree and graduated with summa cum laude. I worked as a retail pharmacist for 12 years.  
   
 I'm currently enrolled in **Justice Through Code** program in association with Columbia University. I'm thoroughly enjoying the classes as we learn about writing cover letters, preparing for interviews, and designing websites while learning basic *HTML*, *CSS*, and *Javascript* skills.  
 
