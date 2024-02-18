@@ -1,7 +1,7 @@
 ### Introduction
 My name is James. I was born in China and came to New York when I was in 4th grade. As I'm writing this bio, it is snowing outside :snowflake:
 <br>
-
+My current mood is ![lazy cat](https://drive.google.com/file/d/1lGssqiHyWH6t6JzXuWacrD29EpGKXZg_/view?usp=sharing
 ### Background and Education
 I went to [St John's University](https://www.stjohns.edu/) for pharmacy. I received Doctor of Pharmacy degree and graduated with summa cum laude honor. I worked as a retail pharmacist for 12 years.  
   
