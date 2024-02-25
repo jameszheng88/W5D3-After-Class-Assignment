@@ -18,7 +18,7 @@ In my spare time I like to:
 3. Play video games, especially RPG games. Here are some of the games I played recently
    - [Tactics Ogre: Reborn](https://tactics-ogre.square-enix-games.com/en-us/)
    - [Fire Emblem: Three Houses](https://www.nintendo.com/us/store/products/fire-emblem-three-houses-switch/)
-   - [Rune Factory 4 Special](https://store.steampowered.com/app/1580240/Rune_Factory_4_Special/)
+   - [Rune Factory 4 Special](https://www.nintendo.com/us/store/products/rune-factory-4-special-switch/)
 4. Learn as much as I can about coding
 ### Future Goals
 <details>
